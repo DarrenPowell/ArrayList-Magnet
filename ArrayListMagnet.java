@@ -42,6 +42,6 @@ public class ArrayListMagnet {
     }
      System.out.println(" ");
         
-        }
+    }
 
 }
